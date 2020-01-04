@@ -23,6 +23,16 @@
 
 Note1: always check whether the new item is in visited set in order to elimate duplicates and unnecessary calculation.
 Note2: first add item to the visited set, then put it to the Q in order to avoid duplicate.
+
+|                        | level  | visited  | indegree  |   |
+|---|---|---|---|---|
+| Level Order Traversal  | [x]  | [x]  | [ ]  |   |
+| Connected Component    | [ ]  | [x]  | [ ]  |   |
+| Topological Sorting    | [ ]  | [x]  | [x]  |   |
+| Traversal in Tree      | [ ]  | [ ]  | [ ]  |   |
+| Traversal in Graph     | [ ]  | [x]  | [ ]  |   |
+| Shortest dist in Graph | [x]  | [x]  | [ ]  |   |
+
 ## BFS template -- use Dummy Node to count level:
 ```
 from collections import deque
@@ -71,8 +81,35 @@ while Q1:
 
 ## the summary of lintcode
 
-* Traversal in binary tree
-69. binary Tree Level Order Traversal 
+* Traversal in binary tree -- Time complexity $O(nodes)$
+69. [M] binary Tree Level Order Traversal 
+7. [M] serialize and deserialize binary Tree 
+70. [M] Binary Tree Level Order Traversal II
+71. [M] Binary Tree Zigzag Level Order Traversal
+242. [E] Convert Binary Tree to Linked Lists by Depth
+
+* Traversal in graph -- Time complexity $O(nodes+edges)$
+137. [M] Clone Graph
+120. [M] Word Ladder
+178. [M] Graph Valid Tree
+618. [M] Search Graph Nodes
+431. [M] Connected Component in Undirected Graph
+
+* Traversal in matrix -- Time complexity $O(rows * columns)$
+433. [E] Number of Islands
+611. [M] Knight Shortest Path
+573. [H] Build Post Office II
+598. [M] Zombie in Matrix
+
+
+* Topological Sorting
+127. [M] Topological Sorting
+615. [M] Course Schedule 
+616. [M] Course Schedule II
+892. [H] Alien Dictionary
+605. [M] Sequence Reconstruction
+
+
 
 ### Question, when to use BFS:
 
@@ -82,6 +119,12 @@ while Q1:
   * Connected Component
   * Topogical Sorting
 * Iteration solution for all possible results.
+
+### Question, about topological sorting:
+* find any topological sorting -- BFS
+* if there exists topological sorting -- BFS
+* find all topological sorting -- DFS
+* if there is only one topological sorting -- BFS check if ```len(Q)``` always equals to 1.
 
 ### Question, which objects can be applied to BFS:
 
@@ -108,5 +151,8 @@ class GraphNode:
 ```
 the space complexity is $O(m)$, where $m$ is the number of edges (the worst case is $O(n^2)$).
 Note that the indegree table is necessary for finding the topological order.
+
+### Follow up, Bidirectional BFS
+
 
 
