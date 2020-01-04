@@ -81,33 +81,37 @@ while Q1:
 
 ## the summary of lintcode
 
-* Traversal in binary tree -- Time complexity $O(nodes)$
-69. [M] binary Tree Level Order Traversal 
-7. [M] serialize and deserialize binary Tree 
-70. [M] Binary Tree Level Order Traversal II
-71. [M] Binary Tree Zigzag Level Order Traversal
-242. [E] Convert Binary Tree to Linked Lists by Depth
+|   |**Traversal in binary tree -- Time complexity $O(nodes)$**|
+|---|---|
+|   |69. [M] binary Tree Level Order Traversal |
+|   |7. [M] serialize and deserialize binary Tree| 
+|   |70. [M] Binary Tree Level Order Traversal II|
+|   |71. [M] Binary Tree Zigzag Level Order Traversal|
+|   |242. [E] Convert Binary Tree to Linked Lists by Depth|
 
-* Traversal in graph -- Time complexity $O(nodes+edges)$
-137. [M] Clone Graph
-120. [M] Word Ladder
-178. [M] Graph Valid Tree
-618. [M] Search Graph Nodes
-431. [M] Connected Component in Undirected Graph
+|   |**Traversal in graph -- Time complexity $O(nodes+edges)$**|
+|---|---|
+|   |137. [M] Clone Graph|
+|   |120. [M] Word Ladder|
+|   |178. [M] Graph Valid Tree|
+|   |618. [M] Search Graph Nodes|
+|   |431. [M] Connected Component in Undirected Graph|
 
-* Traversal in matrix -- Time complexity $O(rows * columns)$
-433. [E] Number of Islands
-611. [M] Knight Shortest Path
-573. [H] Build Post Office II
-598. [M] Zombie in Matrix
+|   |**Traversal in matrix -- Time complexity $O(rows * columns)$**|
+|---|---|
+|   |433. [E] Number of Islands|
+|   |611. [M] Knight Shortest Path|
+|   |573. [H] Build Post Office II|
+|   |598. [M] Zombie in Matrix|
 
 
-* Topological Sorting
-127. [M] Topological Sorting
-615. [M] Course Schedule 
-616. [M] Course Schedule II
-892. [H] Alien Dictionary
-605. [M] Sequence Reconstruction
+|   |**Topological Sorting**|
+|---|---|
+|   |127. [M] Topological Sorting|
+|   |615. [M] Course Schedule |
+|   |616. [M] Course Schedule II|
+|   |892. [H] Alien Dictionary|
+|   |605. [M] Sequence Reconstruction|
 
 
 
