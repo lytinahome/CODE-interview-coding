@@ -20,5 +20,5 @@ Method #3: Miminum time complexity
 test_list = [3, 4, 1, 7, 9, 1]
 res = [test_list[0]]
 for num in test_list[1:]:
-    res.append = res[-1] + num
+    res.append(res[-1] + num)
 ```
