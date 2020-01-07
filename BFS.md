@@ -100,7 +100,7 @@ while Q1:
 |   |**Traversal in matrix -- Time complexity $O(rows * columns)$**|
 |---|---|
 |   |433. [E] Number of Islands|
-|   |611. [M] Knight Shortest Path|
+| 1  |611. [M] Knight Shortest Path|
 |   |573. [H] Build Post Office II|
 |   |598. [M] Zombie in Matrix|
 
