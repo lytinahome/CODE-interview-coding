@@ -74,6 +74,9 @@ def dc():
 |  | 596. minimum subtree |
 | 1 | 480. binary tree paths|
 | 1 | 578. lowest common ancestor III|
+| 1 | 474. Lowest Common Ancestor II|
+| 1 | 246@. Binary Tree Path Sum II|
+
 
 |  | **traversal** |
 |--|--|
@@ -102,6 +105,7 @@ def dc():
 |  | 11. search range in BST|
 |  | 85. insert node in a BST|
 |  | 87. remove node in a BST|
+| 1 | 1311. Lowest Common Ancestor of a Binary Search Tree|
 
 
 
