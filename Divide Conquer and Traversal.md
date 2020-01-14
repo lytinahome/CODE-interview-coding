@@ -73,10 +73,10 @@ def dc():
 | 1 | 597. subtree with maximum average | 
 |  | 596. minimum subtree |
 | 1 | 480. binary tree paths|
-| 1 | 578. lowest common ancestor III|
+| 2 | 578. lowest common ancestor III|
 | 1 | 474. Lowest Common Ancestor II|
-| 1 | 246@. Binary Tree Path Sum II|
-
+| 2 | 246. Binary Tree Path Sum II|
+| 1 | 472. Binary Tree Path Sum III|
 
 |  | **traversal** |
 |--|--|
@@ -84,6 +84,8 @@ def dc():
 |  | 66. binary tree preorder traversal|
 |  | 68. binary tree preorder traversal (non-recursion)|
 |  | 68. binary tree preorder traversal|
+| 1 | 97. Maximum Depth of Binary Tree|
+| 1 | 155. Minimum Depth of Binary Tree|
 
 |  | **structure change** |
 |--|--|
@@ -99,7 +101,8 @@ def dc():
 |  | 67. binary tree inorder traversal|
 |  | 902. kth smallest element in BST|
 |  | 86. binary search tree iterator|
-|  | 448. inorder successor in BST|
+| 1 | 448. inorder successor in BST|
+| 1 | 915. inorder predecessor in BST|
 |  | 900. cloest BST value|
 |  | 901. cloest BST value II|
 |  | 11. search range in BST|
