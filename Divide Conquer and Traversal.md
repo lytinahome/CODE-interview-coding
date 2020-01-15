@@ -77,6 +77,7 @@ def dc():
 | 1 | 474. Lowest Common Ancestor II|
 | 2 | 246. Binary Tree Path Sum II|
 | 1 | 472. Binary Tree Path Sum III|
+| 1 | 595. [E] Binary Tree Longest Consecutive Sequence |
 
 |  | **traversal** |
 |--|--|
@@ -86,6 +87,7 @@ def dc():
 |  | 68. binary tree preorder traversal|
 | 1 | 97. Maximum Depth of Binary Tree|
 | 1 | 155. Minimum Depth of Binary Tree|
+
 
 |  | **structure change** |
 |--|--|
@@ -110,7 +112,10 @@ def dc():
 |  | 87. remove node in a BST|
 | 1 | 1311. Lowest Common Ancestor of a Binary Search Tree|
 
-
+|  | **any node to node**|
+|--|--|
+| 1 | 614. [M] Binary Tree Longest Consecutive Sequence II |
+| 1 | 619. [M] Binary Tree Longest Consecutive Sequence III |
 
 
 ### Questions: Binary Tree Traversal
