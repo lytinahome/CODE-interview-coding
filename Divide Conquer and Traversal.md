@@ -87,6 +87,7 @@ def dc():
 |  | 68. binary tree preorder traversal|
 | 1 | 97. Maximum Depth of Binary Tree|
 | 1 | 155. Minimum Depth of Binary Tree|
+| 1 | 475. Binary Tree Maximum Path Sum II |
 
 
 |  | **structure change** |
@@ -116,6 +117,7 @@ def dc():
 |--|--|
 | 1 | 614. [M] Binary Tree Longest Consecutive Sequence II |
 | 1 | 619. [M] Binary Tree Longest Consecutive Sequence III |
+| 1 | 94. Binary Tree Maximum Path Sum |
 
 
 ### Questions: Binary Tree Traversal
