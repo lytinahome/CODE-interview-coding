@@ -10,7 +10,7 @@ Fast & slow pointers
 
 ```
 
-|  | ** Sliding Windows** |
+|  | **Sliding Windows** |
 |--|--|
 |  | 604. Window Sum |
 |  | 360. Sliding Window Median |
@@ -32,7 +32,8 @@ Fast & slow pointers
 |  | 547. Intersection of Two Arrays |
 
 
-
+|  |  **Miscellaneous** |
+|--|--|
 |  | 539. Move Zeroes |
 
 
@@ -135,6 +136,9 @@ Note the difference with Quick Sort.
 |  | 49. Sort Letters by Case |
 |  | 5. kth Largest Element |
 |  | 461. Kth Smallest Numbers in Unsorted  Array |
+
+|  | **three pointers** |
+|--|--|
 |  | 148. Sort Colors |
 |  | 143. Sort Colors II |
 
