@@ -2,19 +2,18 @@
 
 ## -> -> two pointers
 
-Sliding window
 
-Fast & slow pointers
 
-```
-
-```
+|  | **Fast & slow pointers** |
+|--|--|
+| 1 | 228. Middle of Linked List |
 
 |  | **Sliding Windows** |
 |--|--|
-|  | 604. Window Sum |
+| 1 | 604. Window Sum |
 |  | 360. Sliding Window Median |
 |  | 362. Sliding Window Maximum |
+|  | 1375. Substring With At Least K Distinct Characters |
 
 |  | **Remove Duplicate** |
 |--|--|
@@ -115,15 +114,16 @@ Note the difference with Quick Sort.
 
 |  |  **Two Sum**|
 |--|--|
+| 1 | 56. Two Sum |
 |  | 608. Two Sum II - Input array is sorted |
-|  | 607. Two Sum III - Data structure design|
+| 1 | 607. Two Sum III - Data structure design|
 |  | 587. Two Sum - Unique pairs | 
-|  | 609. Two Sum - Less than or equal to target |
+| 1 | 609. Two Sum - Less than or equal to target |
 |  | 443. Two Sum - Greater than target |
-|  | 533. Two Sum - Closest to target|
+| 2 | 533. Two Sum - Closest to target|
 |  | 610. Two Sum - Difference equals to target |
 |  | 57. 3Sum |
-|  | 59. 3Sum Closest |
+| 1 | 59. 3Sum Closest |
 |  | 58. 4Sum |
 |  | 382. Triangle Count |
 
