@@ -114,9 +114,9 @@ Note the difference with Quick Sort.
 | 1 | 56. Two Sum |
 | 1 | 608. Two Sum II - Input array is sorted |
 | 1 | 607. Two Sum III - Data structure design|
-|  | 587. Two Sum - Unique pairs | 
+| 1 | 587. Two Sum - Unique pairs | 
 | 1 | 609. Two Sum - Less than or equal to target |
-|  | 443. Two Sum - Greater than target |
+| 1 | 443. Two Sum - Greater than target |
 | 2 | 533. Two Sum - Closest to target|
 |  | 57. 3Sum |
 | 1 | 59. 3Sum Closest |
