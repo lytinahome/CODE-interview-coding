@@ -25,6 +25,7 @@
 | 1 | 604. Window Sum |
 |  | 360. Sliding Window Median |
 |  | 362. Sliding Window Maximum |
+| 1 | 406. Minimum Size Subarray Sum |
 | 1 | 1375. Substring With At Least K Distinct Characters |
 
 |  |  **Miscellaneous** |
