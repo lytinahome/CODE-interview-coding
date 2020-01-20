@@ -88,15 +88,15 @@ def twoSum(numbers, target):
 
 ```
 while left <= right:
-    while left <= right and nums[left] should be in the left side:
+    while left <= right and nums[left] < pivot:
         left += 1
-    while left <= right and nums[right] should be in the right side:
-        right += 1
+    while left <= right and nums[right] > pivot:
+        right -= 1
     
     if left <= right:
         nums[left], nums[right] = nums[right], nums[left]
         left += 1
-        right += 1
+        right -= 1
 ```
 Note the difference with Quick Sort.
 
