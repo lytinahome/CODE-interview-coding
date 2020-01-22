@@ -42,7 +42,7 @@ return -1
 |  | **discard the half** |
 |--|--|
 |  | 62. search in rotated sorted array|
-|  | 75. find the peak element|
+| 1 | 75. find the peak element|
 
 |  | **binary the answer** |
 |--|--|
@@ -57,7 +57,7 @@ return -1
 |--|--|
 |  | 428. pow(x, n)|
 |  | 140. fast power|
-|  | 74. first bad version|
+| 1 | 74. first bad version|
 |  | 141. sqrt(x)|
 |  | 586. sqrt(x) II|
 
