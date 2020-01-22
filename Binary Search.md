@@ -30,7 +30,7 @@ return -1
 |  | 458. last position of target|
 |  | 447. search in a big sorted array|
 | 1 | 460. find k closest elements|
-|  | 61. search for a range|
+| 1 | 61. search for a range|
 |  | 600. smallest rectangle enclosing black pixels|
 
 
