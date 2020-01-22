@@ -109,7 +109,7 @@ while Q1:
 |---|---|
 |   |127. [M] Topological Sorting|
 |   |615. [M] Course Schedule |
-|   |616. [M] Course Schedule II|
+| 1 |616. [M] Course Schedule II|
 |   |892. [H] Alien Dictionary|
 |   |605. [M] Sequence Reconstruction|
 
