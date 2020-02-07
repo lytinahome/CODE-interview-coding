@@ -87,7 +87,7 @@ while Q1:
 |   |7. [M] serialize and deserialize binary Tree| 
 |   |70. [M] Binary Tree Level Order Traversal II|
 |   |71. [M] Binary Tree Zigzag Level Order Traversal|
-|   |242. [E] Convert Binary Tree to Linked Lists by Depth|
+|  1 |242. [E] Convert Binary Tree to Linked Lists by Depth|
 
 |   |**Traversal in graph -- Time complexity $O(nodes+edges)$**|
 |---|---|
@@ -110,7 +110,7 @@ while Q1:
 |   |127. [M] Topological Sorting|
 |   |615. [M] Course Schedule |
 | 1 |616. [M] Course Schedule II|
-|   |892. [H] Alien Dictionary|
+|  1 |892. [H] Alien Dictionary|
 |   |605. [M] Sequence Reconstruction|
 
 
