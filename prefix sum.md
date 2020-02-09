@@ -22,3 +22,9 @@ res = [test_list[0]]
 for num in test_list[1:]:
     res.append(res[-1] + num)
 ```
+
+
+Puzzles in leetcode
+|  |  |
+|--|--|
+| 2 | 41. * Maximum Subarray |
