@@ -24,7 +24,7 @@ for num in test_list[1:]:
 ```
 
 
-Puzzles in leetcode
+### Puzzles in leetcode
 |  |  |
 |--|--|
 | 2 | 41. * Maximum Subarray |
